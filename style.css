@@ -1,15 +1,18 @@
 body{
   background-color:black;
+  font-family:Arial, sans-serif;
+}
 }
 
 p{
   color:white;
-  text-align : center;
+ margin: 0;
+  
 }
 h1{
   color:white;
 
-  font-size: 200px;
+  font-size: 300px;
 }
 h2{
   color:white;
@@ -24,6 +27,7 @@ body {
   background-color: white;
   background-image: radial-gradient(circle, #0066ff 30px, transparent 30px);
   background-size: 60px 60px;
+ font-family:Arial, sans-serif;
 }
 }
 
