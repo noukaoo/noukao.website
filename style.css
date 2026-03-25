@@ -19,14 +19,19 @@ p {
   color: black;
 }
 
-.gallery {
+container {
+  max-width: 350px;
+  }
+
+
+gallery {
   display: grid;
   grid-template-columns: repeat(7, 1fr); 
   gap: 10px; 
   margin: 0px; 
 }
 
-.gallery img {
+gallery img {
   width: 100%;
   aspect-ratio: 1 / 1;
   object-fit: cover; 
