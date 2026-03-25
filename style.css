@@ -4,8 +4,6 @@ body {
   margin: 0;
   background-color: black;
   font-family: Arial, sans-serif;
-  background-image: radial-gradient(circle, #0066ff 30px, transparent 30px);
-  background-size: 60px 60px;
 }
 
 h1 {
