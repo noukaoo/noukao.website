@@ -28,6 +28,19 @@ p {
   margin-left: 0;
 }
 
+.top-right-text {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+
+  max-width: 250px;
+
+  font-size: 14px;
+  line-height: 1.4;
+
+  color: black;
+}
+
 /* GALERIE */
 .gallery {
   display: grid;
